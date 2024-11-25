@@ -24,3 +24,8 @@ Click the Use Current Location button to get weather details based on your geogr
 Recently Searched Cities:
 
 Previously searched cities are stored and can be selected from the dropdown menu for quick weather updates.
+
+##Screenshots
+![Weather App Screenshot](Screenshots/Screenshot%20(54).png)
+![Weather App Screenshot](Screenshots/Screenshot%20(55).png)
+
